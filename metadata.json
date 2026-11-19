@@ -1,0 +1,8 @@
+{
+  "name": "Sunat Nano Circumcision — Klinik Sunat Anak Modern",
+  "description": "Layanan sunat anak modern dengan metode Bipolar Pen Sealer & Nano Klamp, bius tanpa jarum suntik, tanpa jahitan, ramah anak, dan konsultasi gratis via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
